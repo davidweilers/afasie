@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Afasie</string>
+    <string name="afasie">Afasie v1</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="about">About</string>
+
+    <string name="afasie_app">Stichting Afasietherapie Amsterdam v1</string>
+
+    <string name="name">
+        {
+        "familie":{
+            "gezin":{
+                "david":{},
+                "linda":{},
+                "jelte":{},
+                "iabris":{}
+            },
+            "renee":{},
+            "marijntje":{},
+            "joleen":{},
+            "henriette":{},
+            "ronald":{}
+        },
+        "vrienden":{
+            "roos":{},
+            "mees":"{},
+            "thijs":{},
+            "maartje":{},
+
+            "sanne":{},
+
+            "hajo":{},
+            "femke":{},
+            "hidde":{},
+            "siebe":{}
+        },
+        "eten":{
+            "groente":{
+                "broccoli":{},
+                "tomaat":{},
+                "sla":{}
+            },
+            "fruit":{
+                "appel":{},
+                "bananen":{},
+                "peren":{},
+                "kiwi":{},
+                "aardbeien":{}
+            },
+            "vlees":{
+                "salami":{},
+                "kip":{}
+            }
+        },
+        "drinken":{
+            "thee":{},
+            "koffie":{},
+            "water":{},
+            "wijn":{}
+        },
+        "kleur":{
+            "rood":{},
+            "oranje":{},
+            "geel":{},
+            "groen":{},
+            "cyaan":{},
+            "blauw":{},
+            "groen":{},
+            "blauw":{},
+            "grijs":{},
+            "zwart":{},
+            "wit":{}
+        },
+        "getal":{
+            "nul":{},
+            "een":{},
+            "twee":{},
+            "drie":{},
+            "vier":{},
+            "vijf":{},
+            "zes":{},
+            "zeven":{},
+            "acht":{},
+            "negen":{},
+            "tien":{}
+        },
+        "maand":{
+            "januari":{},
+            "februari":{},
+            "maart":{},
+            "april":{},
+            "mei":{},
+            "juni":{},
+            "juli":{},
+            "augustus":{},
+            "september":{},
+            "oktober":{},
+            "november":{},
+            "december":{}
+        },
+        "dieren":{
+            "koe":{},
+            "kip":{},
+            "honingbij":{},
+            "schapen":{},
+            "geiten":{},
+            "varkens":{},
+            "eend":{},
+            "paard":{}
+        }
+        }
+    </string>
+</resources>
